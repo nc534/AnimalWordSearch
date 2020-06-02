@@ -1,0 +1,42 @@
+body{
+    text-align:center; 
+    font-family: optima, candara, garamond;
+    font-size: 40px; 
+    background-image: url(https://www.goodfreephotos.com/albums/animals/mammals/chipmunk-in-violet-flower-fields.jpg);
+}
+
+table.center {
+    margin-left:auto; 
+    margin-right:auto;
+    border: 1px solid black;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+th{
+    text-align: center;
+    font-size: 50px;
+    width:10%;
+}
+
+input{
+    padding: 10px 20px;
+    background: rgba(255,255,255,0.65);
+}
+
+.button {
+    background-color: white; 
+    font-family: optima, candara, garamond;
+    font-size: 15px;
+    color: black; 
+    border: 2px solid #008CBA;
+    padding: 10px 16px;
+}
+
+.button:hover {
+    background-color: #008CBA;
+    color: white;
+}
+
+#list{
+    font-size: 30px;
+}
